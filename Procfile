@@ -1,0 +1,1 @@
+web: gunicorn djangodafi.wsgi --log-file -

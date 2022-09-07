@@ -1,0 +1,2 @@
+HEROKU_API_KEY: 3e08e944-58dc-47cb-8e43-c899eb638fb8
+HEROKU_APP_NAME: djangodafi
